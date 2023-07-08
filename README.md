@@ -14,6 +14,9 @@ This repo contains 2 top-level directories:
 
 ### CUE Packages
 
+- [/cue/jCue](/cue/jCue): a package that allows for easy patching of existing
+  data structures
+
 ### Utils
 
 - [/utils/eCue](/utils/eCue): a shell script that uses CUE to test pairs of
